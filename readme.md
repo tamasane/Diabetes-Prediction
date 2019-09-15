@@ -1,8 +1,0 @@
-![Page 1](/documentation/readme/page1.jpg)
-![Page 2](/documentation/readme/page2.jpg)
-![Page 3](/documentation/readme/page3.jpg)
-![Page 4](/documentation/readme/page4.jpg)
-![Page 5](/documentation/readme/page5.jpg)
-![Page 6](/documentation/readme/page6.jpg)
-![Page 7](/documentation/readme/page7.jpg)
-![Page 8](/documentation/readme/page8.jpg)
